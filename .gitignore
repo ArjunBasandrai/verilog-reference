@@ -1,4 +1,6 @@
 work/
 *.mpf
 *.cr.mti
-*bak
+*.bak
+*.wlf
+wlf*
